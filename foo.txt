@@ -1,1 +1,2 @@
 Hello,git
+これはother-branchでの変更です
